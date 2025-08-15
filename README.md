@@ -1,0 +1,2 @@
+# React-js-Basic-project
+Docs UI – Draggable Document Cards in React A modern, animated document interface built with React, Tailwind CSS, Framer Motion, and React Icons. Features draggable cards with smooth animations, responsive design, and clean UI — perfect for file previews or dashboards.
